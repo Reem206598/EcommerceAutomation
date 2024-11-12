@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HomePage Test Suite">
+    <test name="HomePage Test">
+        <classes>
+            <class name="com.reem.ecommerceautomation.tests.HomePageTest" />
+        </classes>
+    </test>
+</suite>
